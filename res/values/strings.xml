@@ -1,0 +1,16 @@
+<resources>
+    <string-array name="grid_array">
+        <item>3 x 3</item>
+        <item>4 x 4</item>
+        <item>5 x 5</item>
+    </string-array>
+    <string name="app_name">"Taquin"</string>
+    <string name="gridsize">"Grid size : "</string>
+    <string name="imagechoix">"Choose your picture : "</string>
+    <string name="win">"You win ! Time : "</string>
+    <string name="score">"Your score : "</string>
+    <string name="bestscores">"High scores : "</string>
+    <string name="jouer">Play</string>
+    <string name="rejouer">Play Again</string>
+    <string name="newbestscore">New Best Score : </string>
+</resources>

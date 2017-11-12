@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Taquin</string>
+    <string name="gridsize">Taille de la grille :</string>
+    <string name="imagechoix">Choisir une image :</string>
+    <string name="win">Gagné ! Temps : </string>
+    <string name="score">Ton score :</string>
+    <string name="bestscores">Meilleurs scores :</string>
+    <string name="jouer">Jouer</string>
+    <string name="rejouer">Rejouer</string>
+    <string name="newbestscore">Nouveau meilleur score : </string>
+    <string-array name="grid_array">
+        <item>3 x 3</item>
+        <item>4 x 4</item>
+        <item>5 x 5</item>
+    </string-array>
+</resources>
